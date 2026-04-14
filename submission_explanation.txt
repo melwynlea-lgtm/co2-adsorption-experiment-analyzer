@@ -1,9 +1,19 @@
 Project Title: CO2 Adsorption Experiment Analyzer
 
-This project is a functional scientific data-processing and visualization tool designed for adsorption experiments. In many student and laboratory workflows, CO2 adsorption data is still analyzed manually in spreadsheets. That takes time, creates inconsistency, and increases the chance of calculation errors. This tool solves that problem by automating the core analysis steps.
+This project is a functional scientific data-processing and visualization tool designed for 
+adsorption experiments. In many student and laboratory workflows, CO2 adsorption data is 
+still analyzed manually in spreadsheets. That takes time, creates inconsistency, and 
+increases the chance of calculation errors. This tool solves that problem by automating the 
+core analysis steps.
 
-The application allows a user to upload experimental data in CSV or Excel format and automatically calculates adsorption capacity and removal efficiency for each sample over time. It also generates clear plots for concentration change and adsorption capacity, summarizes final sample performance, and allows export of processed results.
+The application allows a user to upload experimental data in CSV or Excel format and 
+automatically calculates adsorption capacity and removal efficiency for each sample over 
+time. It also generates clear plots for concentration change and adsorption capacity, 
+summarizes final sample performance, and allows export of processed results.
 
-The solution is useful because it improves research workflow, saves time, and makes adsorption experiment interpretation more consistent. It is especially relevant for chemistry, environmental science, and materials research, where repeated data handling is common.
+The solution is useful because it improves research workflow, saves time, and makes 
+adsorption experiment interpretation more consistent. It is especially relevant for 
+chemistry, environmental science, and materials research, where repeated data handling is 
+common.
 
 This project is functional, practical, and directly connected to a real scientific problem.
