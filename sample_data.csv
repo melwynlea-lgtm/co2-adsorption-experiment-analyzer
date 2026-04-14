@@ -1,0 +1,16 @@
+sample,time_min,C0,Ct,volume_L,mass_g,replicate
+Activated Carbon A,0,100,100,1.0,0.50,1
+Activated Carbon A,10,100,82,1.0,0.50,1
+Activated Carbon A,20,100,70,1.0,0.50,1
+Activated Carbon A,30,100,58,1.0,0.50,1
+Activated Carbon A,40,100,50,1.0,0.50,1
+Activated Carbon B,0,100,100,1.0,0.50,1
+Activated Carbon B,10,100,86,1.0,0.50,1
+Activated Carbon B,20,100,78,1.0,0.50,1
+Activated Carbon B,30,100,66,1.0,0.50,1
+Activated Carbon B,40,100,60,1.0,0.50,1
+Thiourea-Doped Carbon,0,100,100,1.0,0.50,1
+Thiourea-Doped Carbon,10,100,75,1.0,0.50,1
+Thiourea-Doped Carbon,20,100,60,1.0,0.50,1
+Thiourea-Doped Carbon,30,100,43,1.0,0.50,1
+Thiourea-Doped Carbon,40,100,35,1.0,0.50,1
